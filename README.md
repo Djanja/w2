@@ -1,1 +1,2 @@
-!!!!!i:XHello!  This is my second project!
+Hello!  This is my second project!!!!
+Just look at it!
